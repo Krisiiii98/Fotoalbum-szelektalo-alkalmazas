@@ -39,5 +39,5 @@ def estimate_exposure(image: np.array, exposure_thresholds: int = [0, 51, 102, 1
         print('Image is Very Overexposed')
         return True
 
-def estimate_CA(image: np.array, threshold):
+#def estimate_CA(image: np.array, threshold):
     
