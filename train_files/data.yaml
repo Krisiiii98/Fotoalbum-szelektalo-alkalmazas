@@ -1,0 +1,33 @@
+path: Dataset
+train: train
+val: val
+test: test
+
+names:
+  0: astilbe
+  1: audi
+  2: beach
+  3: bellflower
+  4: black_eyes_susan
+  5: bmw
+  6: buildings
+  7: calendula
+  8: california_poppy
+  9: carnation
+ 10: cat
+ 11: common_daisy
+ 12: coreopsis
+ 13: daffodil
+ 14: dandelion
+ 15: dog
+ 16: group
+ 17: iris
+ 18: magnolia
+ 19: mercedes
+ 20: mountain
+ 21: rose
+ 22: seashore
+ 23: street
+ 24: sunflower
+ 25: tulip
+ 26: waterlilly
